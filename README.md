@@ -14,13 +14,13 @@ javac -encoding UTF8 *.java
 java Main
 
 ## ChangeLog de la dernière version (v3.1) : 
-## Version SuperStable
-## Build 180513.1 :
+### Version SuperStable
+### Build 180513.1 :
 - Correction d'un bug dans le déplacement et l'assechement de l'explorateur.
 - Ajout de la couleur des pions dans les demandes d'actions.
 - Changement dans les prioritées dans verifPerdu().
 - Ajout de commentaires.
 - Correction d'un bug au niveau des clefs.
 
-## Build 180514.1 :
+### Build 180514.1 :
 - Ajout du vrai paquet de carte d'action (28 cartes).
