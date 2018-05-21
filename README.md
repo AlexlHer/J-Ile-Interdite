@@ -9,6 +9,7 @@ https://www.lri.fr/~blsk/POGL/IleInterdite.pdf
 
 ## Compilation et lancement :
 javac -encoding UTF8 *.java
+
 java Main
 
 ## ChangeLog de la dernière version (v3.1) : 
